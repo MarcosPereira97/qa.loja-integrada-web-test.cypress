@@ -82,3 +82,12 @@ yarn allure serve
 ```
 
 >This is a challenge by [LojaIntegrada](<https://www.lojaintegrada.com.br/?utm_source=lojas&utm_medium=rodape&utm_campaign=qastoredesafio.lojaintegrada.com.br>)
+
+
+## 🧪 Estratégia de QA
+
+Este projeto faz parte do [portfólio de QA/SDET](https://github.com/MarcosPereira97/qa-portfolio-marcos) de Marcos Henrique Pereira Junior.
+
+- **Abordagem:** testes E2E automatizados cobrindo fluxos críticos de negócio, com foco em risco e valor.
+- **Documentação complementar:** estratégia de testes, casos de teste e exploratory charters disponíveis no [qa-portfolio-marcos](https://github.com/MarcosPereira97/qa-portfolio-marcos).
+- **CI/CD:** execução automatizada via GitHub Actions a cada push/PR.
